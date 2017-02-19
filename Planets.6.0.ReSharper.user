@@ -1,0 +1,210 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/f:Utility.cs" caret="207" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Environment/f:Universe.cs" caret="102" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/f:Default.cs" caret="259" fromTop="11" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:TypedBonus.cs" caret="229" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:IBonus.cs" caret="160" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:UntypedBonus.cs" caret="226" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:UntypedBonusType.cs" caret="499" fromTop="18" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:UniqueObject.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Transit.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Scheme.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:ITransit.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Institution.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:IForm.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Form.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Card.cs" caret="143" fromTop="6" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:IPlan.cs" caret="0" fromTop="0" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/f:SpaceTimeType.cs" caret="233" fromTop="12" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Environment/f:Planet.cs" caret="224" fromTop="10" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Environment/f:Reality.cs" caret="123" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Hand.cs" caret="0" fromTop="0" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Being.cs" caret="274" fromTop="12" />
+      <File id="B51404D4-3CDF-460E-8280-B8A4B25AE7E3/f:Game1.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Transit.cs" caret="0" fromTop="0" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:UniqueObject.cs" caret="0" fromTop="0" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Scheme.cs" caret="0" fromTop="0" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:UniqueObject.cs" caret="174" fromTop="7" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Transit.cs" caret="182" fromTop="11" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/f:SpaceTimeType.cs" caret="120" fromTop="7" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:IBonus.cs" caret="144" fromTop="7" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:IBonus.cs" caret="169" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:TypedBonus.cs" caret="238" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Environment/f:Planet.cs" caret="498" fromTop="16" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Card.cs" caret="441" fromTop="14" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:UntypedBonus.cs" caret="202" fromTop="9" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Bonuses/f:UntypedBonusType.cs" caret="499" fromTop="18" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Card.cs" caret="143" fromTop="6" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Form.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:IForm.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Institution.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:IPlan.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:ITransit.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Scheme.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:Transit.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Cards/f:UniqueObject.cs" caret="117" fromTop="5" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Being.cs" caret="88" fromTop="3" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Hand.cs" caret="164" fromTop="8" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Being.cs" caret="1138" fromTop="28" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Being.cs" caret="1286" fromTop="41" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Being.cs" caret="388" fromTop="15" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Environment/f:Planet.cs" caret="293" fromTop="11" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/f:SpaceTimeType.cs" caret="233" fromTop="12" />
+      <File id="DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0/d:Player/f:Being.cs" caret="1895" fromTop="42" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="63" />
+      <Item value="List" priority="191" />
+      <Item value="public" priority="1148" />
+      <Item value="string" priority="128" />
+      <Item value="enum" priority="30" />
+      <Item value="Universe`0" priority="127" />
+      <Item value="int" priority="479" />
+      <Item value="base" priority="31" />
+      <Item value="Realities" priority="63" />
+      <Item value="new" priority="415" />
+      <Item value="List&lt;Reality&gt;" priority="57" />
+      <Item value="numberOfRealities" priority="95" />
+      <Item value="numberOfPlanets" priority="191" />
+      <Item value="static" priority="95" />
+      <Item value="this" priority="31" />
+      <Item value="Default`0" priority="63" />
+      <Item value="Reality`0" priority="95" />
+      <Item value="Planet`0" priority="127" />
+      <Item value="Reality" priority="185" />
+      <Item value="Planets" priority="63" />
+      <Item value="List&lt;Planet&gt;" priority="28" />
+      <Item value="Planet" priority="86" />
+      <Item value="for" priority="63" />
+      <Item value="n" priority="127" />
+      <Item value="var" priority="95" />
+      <Item value="MemberwiseClone`0" priority="31" />
+      <Item value="return" priority="127" />
+      <Item value="Name" priority="31" />
+      <Item value="PlanetType`0" priority="65" />
+      <Item value="long" priority="63" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="Random`0" priority="63" />
+      <Item value="Utility`0" priority="63" />
+      <Item value="as" priority="31" />
+      <Item value="IEnumerable" priority="63" />
+      <Item value="EnumerableQuery&lt;Planet&gt;" priority="28" />
+      <Item value="planets" priority="95" />
+      <Item value="reality" priority="63" />
+      <Item value="p" priority="31" />
+      <Item value="r" priority="63" />
+      <Item value="is" priority="159" />
+      <Item value="Form`0" priority="31" />
+      <Item value="interface" priority="61" />
+      <Item value="IForm`0" priority="31" />
+      <Item value="SpaceTimeType`0" priority="189" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="AppDomainSetup`0" priority="31" />
+      <Item value="Tuple`0" priority="63" />
+      <Item value="IBonus`0" priority="31" />
+      <Item value="Dictionary" priority="60" />
+      <Item value="stats" priority="159" />
+      <Item value="SpaceTimeType" priority="28" />
+      <Item value="Form" priority="63" />
+      <Item value="b" priority="159" />
+      <Item value="if" priority="127" />
+      <Item value="TypedBonus`0" priority="162" />
+      <Item value="FaceUp" priority="31" />
+      <Item value="fu" priority="95" />
+      <Item value="CurrentPlanet" priority="159" />
+      <Item value="Barren" priority="16" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Planets.Default">
+      <Item value="NumberOfRealities" priority="26" />
+      <Item value="NumberOfPlanets" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="107" />
+      <Item value="Find`0" priority="26" />
+      <Item value="Where`1" priority="107" />
+      <Item value="Contains`0" priority="26" />
+      <Item value="IndexOf`0" priority="26" />
+      <Item value="AddRange`0" priority="26" />
+      <Item value="All`1" priority="26" />
+      <Item value="ForEach`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Planets.Reality.PlanetType">
+      <Item value="Tech" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Planets.Reality.Planet">
+      <Item value="RandomPlanet`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Millisecond" priority="26" />
+      <Item value="Ticks" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpaceTime.Utility">
+      <Item value="Random" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpaceTime.Reality">
+      <Item value="Planets" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First`1" priority="26" />
+      <Item value="All`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SpaceTime.SpaceTimeType">
+      <Item value="Tech" priority="26" />
+      <Item value="Mystic" priority="26" />
+      <Item value="Wisdom" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpaceTime.Cards.Form">
+      <Item value="Bonuses" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpaceTime.Bonuses.TypedBonus">
+      <Item value="Bonus" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Tuple`2">
+      <Item value="Item1" priority="53" />
+      <Item value="Item2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpaceTime.Cards.Card">
+      <Item value="Bonuses" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SpaceTime.Environment.Planet">
+      <Item value="Type" priority="53" />
+      <Item value="Development" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

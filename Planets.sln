@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planets", "Planets\Planets\Planets.csproj", "{B51404D4-3CDF-460E-8280-B8A4B25AE7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetsContent", "Planets\PlanetsContent\PlanetsContent.contentproj", "{B618158F-55E4-4884-BCAD-4DD00774C327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTime", "SpaceTime\SpaceTime.csproj", "{DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51404D4-3CDF-460E-8280-B8A4B25AE7E3}.Debug|x86.ActiveCfg = Debug|x86
+		{B51404D4-3CDF-460E-8280-B8A4B25AE7E3}.Debug|x86.Build.0 = Debug|x86
+		{B51404D4-3CDF-460E-8280-B8A4B25AE7E3}.Release|x86.ActiveCfg = Release|x86
+		{B51404D4-3CDF-460E-8280-B8A4B25AE7E3}.Release|x86.Build.0 = Release|x86
+		{B618158F-55E4-4884-BCAD-4DD00774C327}.Debug|x86.ActiveCfg = Debug|x86
+		{B618158F-55E4-4884-BCAD-4DD00774C327}.Release|x86.ActiveCfg = Release|x86
+		{DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0}.Debug|x86.ActiveCfg = Debug|x86
+		{DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0}.Debug|x86.Build.0 = Debug|x86
+		{DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0}.Release|x86.ActiveCfg = Release|x86
+		{DBDEA1F5-4D7D-4A1C-8D25-2DB60DE809B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
